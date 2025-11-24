@@ -29,10 +29,10 @@ I am a passionate **Web Developer** from Bangladesh. I love coding and sharing k
 ### 📊 GitHub Analytics
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tawhidul_islam&show_icons=true&theme=radical&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tawhidul_islam&layout=compact&theme=radical" />
 </a>
 </div>
 
