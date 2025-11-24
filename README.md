@@ -54,7 +54,7 @@ I am a passionate **Web Developer** from Bangladesh. I love coding and sharing k
 ### 📊 GitHub Analytics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tawhidul-islam7&show_icons=true&theme=dark&count_private=true" alt="stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark" alt="streak" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tawhidul-islam7&theme=dark" alt="streak" height="150" />
 </div>
 
 ---
