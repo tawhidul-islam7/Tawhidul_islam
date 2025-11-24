@@ -51,13 +51,10 @@ I am a passionate **Web Developer** from Bangladesh. I love coding and sharing k
 
 ---
 
-### 📊 GitHub Analytics
+### 🏆 GitHub Trophies
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tawhidul_islam&show_icons=true&theme=tokyonight&count_private=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tawhidul_islam&layout=compact&theme=tokyonight" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Tawhidul_islam&theme=flat&column=7" width="100%" />
   </a>
 </div>
 
