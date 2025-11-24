@@ -51,11 +51,10 @@ I am a passionate **Web Developer** from Bangladesh. I love coding and sharing k
 
 ---
 
-### 🏆 GitHub Trophies
+### 📊 GitHub Analytics
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tawhidul-islam7&theme=flat&column=7" width="100%" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=tawhidul-islam7&show_icons=true&theme=dark&count_private=true" alt="stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark" alt="streak" height="150" />
 </div>
 
 ---
