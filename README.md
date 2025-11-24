@@ -6,11 +6,11 @@
 
 I am a passionate **Web Developer** from Bangladesh. I love coding and sharing knowledge with the community.
 
-- 🔭 I’m currently working on **[MyNews]**
-- 🌱 I’m currently learning **[php/Mysql]**
+- 🔭 I’m currently working on **MyNews**
+- 🌱 I’m currently learning **php/Mysql**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development, PHP, SQL**
-- 📫 How to reach me: **[tawhidayman7@gmail.com]**
+- 📫 How to reach me: **tawhidayman7@gmail.com**
 
 ---
 
@@ -42,4 +42,5 @@ I am a passionate **Web Developer** from Bangladesh. I love coding and sharing k
 <p align="left">
 <a href="https://www.linkedin.com/in/md-tawhidul-islam7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://www.facebook.com/tawhidulislam87/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+  <a href="https://wa.me/8801786001877" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" /></a>
 </p>
